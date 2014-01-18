@@ -42,11 +42,6 @@ Thank you so much for even considering supporting my work. If you have benefited
 3. In your WordPress dashboard, head over to the *Plugins* section.
 4. Activate *WordPress Canvas - Responsive Videos*.
 
-== Screenshots ==
-
-1. Desktop View
-2. Mobile View
-
 == Frequently Asked Questions ==
 
 ### How does this plugin work?
@@ -58,16 +53,13 @@ http://css-tricks.com/NetMag/FluidWidthVideo/Article-FluidWidthVideo.php
 
 Currently, 16:9, 4:3, and 3:2. But this will change as people send me tips and suggestions.
 
+== Screenshots ==
+
+1. Desktop View
+2. Mobile View
+
 == Changelog ==
 
-### Version 1.3
-
-* Adding screenshots.
-
-### Version 1.2
-
-* Updated documentation.
-
-### Version 1.1
+### Version 1.4
 
 * Plugin released.  Everything is new!
