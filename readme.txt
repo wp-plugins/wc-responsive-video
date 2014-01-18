@@ -60,6 +60,6 @@ Currently, 16:9, 4:3, and 3:2. But this will change as people send me tips and s
 
 == Changelog ==
 
-### Version 1.4
+### Version 1.5
 
 * Plugin released.  Everything is new!
