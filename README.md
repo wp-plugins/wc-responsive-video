@@ -38,7 +38,7 @@ Thank you so much for even considering supporting my work. If you have benefited
 ## Installation ##
 
 1. Uzip the `wc-responsive-video.zip` folder.
-2. Upload the `wc-gallery` folder to your `/wp-content/plugins` directory.
+2. Upload the `wc-responsive-video` folder to your `/wp-content/plugins` directory.
 3. In your WordPress dashboard, head over to the *Plugins* section.
 4. Activate *WordPress Canvas - Responsive Videos*.
 
